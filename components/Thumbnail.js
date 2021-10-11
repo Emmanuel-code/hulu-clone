@@ -1,5 +1,6 @@
 import { ThumbsUpDownOutlined, ThumbUp } from '@material-ui/icons'
 import Image from 'next/image'
+
 import React from 'react'
 
 function Thumbnail({result}) {
