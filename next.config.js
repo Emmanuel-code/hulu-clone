@@ -1,6 +1,9 @@
 
 module.exports = {
-    images: {
-      domains: ['image.tmdb.org','https://image.tmdb.org'],
+    future: {
+      webpack5: true,
     },
-  }
+    images: {
+      domains: ["links.papareact.com", "image.tmdb.org"],
+    },
+  };
